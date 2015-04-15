@@ -1,4 +1,5 @@
 I Data Files Review
+
 •	features_info.txt: Shows information about the variables used on the feature vector.
 •	features.txt: List of all features.
 •	activity_labels.txt: Links the class labels with their activity name.
@@ -12,6 +13,7 @@ I Data Files Review
 •	train/Inertial Signals/body_gyro_x_train.txt: The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
 II Data Cleaning Review 
+
 1.	Perform merge to have three datasets after reading in raw data:
 •	Test data and test labels. 
 •	Training data and training labels. 
